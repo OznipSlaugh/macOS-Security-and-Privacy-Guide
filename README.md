@@ -66,7 +66,7 @@ This guide is also available in [简体中文](https://github.com/xitu/macOS-Sec
 
 ## Basics
 
-The standard best security practices apply:
+The standard best security practices apply:s
 
 * Create a threat model
 	* What are you trying to protect and from whom? Is your adversary a [three letter agency](https://theintercept.com/document/2015/03/10/strawhorse-attacking-macos-ios-software-development-kit/) (if so, you may want to consider using [OpenBSD](http://www.openbsd.org/) instead), a nosy eavesdropper on the network, or determined [apt](https://en.wikipedia.org/wiki/Advanced_persistent_threat) orchestrating a campaign against you?
